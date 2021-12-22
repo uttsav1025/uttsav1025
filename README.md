@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on a js project.
-- 📫 How to reach me ...
+- 📫 How to reach me ...twitter
 
 <!---
 uttsav1025/uttsav1025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
