@@ -69,24 +69,46 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uttsav1025&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttsav1025&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uttsav1025&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
-
-</div>
+## ⚡ Fun Stuff
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=uttsav1025&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+### 🎮 When I'm Not Coding
+
+```ascii
+   ☕ Coffee → 💻 Code → 🚀 Deploy → 😴 Sleep → ♻️ Repeat
+```
+
+### 🎯 My Coding Journey
+
+```
+Frontend Magic    ████████████████████░  95%
+UI/UX Design      ███████████████████░░  90%
+VPS Deployment    ██████████████████░░░  85%
+Coffee Addiction  ████████████████████  100%
+```
+
+### 🏆 Achievement Unlocked
+
+<img src="https://github-profile-trophy.vercel.app/?username=uttsav1025&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>*Note: To enable the snake animation, you'll need to set up the GitHub Action. [Guide here](https://github.com/Platane/snk)*</sub>
+
+### 💭 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+### 😂 Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 </div>
 
