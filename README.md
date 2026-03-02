@@ -1,12 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Uttsav Pokhrel
 
 ### Frontend Developer & UI/UX Designer | Freelancer & Consultant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://uttsavpokhrel.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttsav-pokhrel-064913229/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttsav1025@protonmail.com)
 
 </div>
 
@@ -18,10 +18,10 @@ I'm a **frontend developer and consultant** who transforms ideas into pixel-perf
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "Uttsav Pokhrel",
   role: "Frontend Developer & Consultant",
-  location: "🌍 Remote | Available Worldwide",
-  specialties: ["React", "Vue", "Angular", "UI/UX Design", "DevOps"],
+  location: "🇳🇵 Kathmandu, Nepal | Available Worldwide",
+  specialties: ["React", "Vue", "Angular", "Next.js", "UI/UX Design", "DevOps"],
   availability: "Open for freelance projects ✅"
 };
 ```
@@ -41,6 +41,7 @@ const developer = {
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,10 +55,9 @@ const developer = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### APIs & Integration
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
 ### DevOps & Deployment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -73,11 +73,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uttsav1025&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uttsav1025&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uttsav1025&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
 
 </div>
 
@@ -87,7 +87,7 @@ const developer = {
 
 ```javascript
 const currentStatus = {
-  working_on: "Client projects & open-source contributions",
+  working_on: "Next.js projects & management dashboard designs in Figma",
   learning: "Advanced React patterns & performance optimization",
   available_for: ["Freelance projects", "Consulting", "Long-term contracts"],
   fun_fact: "I debug with console.log and I'm not ashamed 🐛"
@@ -104,10 +104,10 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### 📬 Get In Touch
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
-[![Schedule Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/yourlink)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttsav1025@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttsav-pokhrel-064913229/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://uttsavpokhrel.com.np)
+[![Schedule Call](https://img.shields.io/badge/Schedule_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/uttsavpokhrel/30min)
 
 </div>
 
@@ -117,8 +117,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ### 💡 *"Clean code, creative solutions, deployed with precision."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=F85D7F&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=uttsav1025&color=F85D7F&style=for-the-badge&label=Profile+Views)
 
-⭐️ From [yourusername](https://github.com/yourusername) with ❤️
+⭐️ From [uttsav1025](https://github.com/uttsav1025) with ❤️
 
 </div>
