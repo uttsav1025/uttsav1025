@@ -69,51 +69,6 @@ const developer = {
 
 ---
 
-## ⚡ Fun Stuff
-
-<div align="center">
-
-### 🎮 When I'm Not Coding
-
-```ascii
-   ☕ Coffee → 💻 Code → 🚀 Deploy → 😴 Sleep → ♻️ Repeat
-```
-
-### 🎯 My Coding Journey
-
-```
-Frontend Magic    ████████████████████░  95%
-UI/UX Design      ███████████████████░░  90%
-VPS Deployment    ██████████████████░░░  85%
-Coffee Addiction  ████████████████████  100%
-```
-
-### 🏆 Achievement Unlocked
-
-<img src="https://github-profile-trophy.vercel.app/?username=uttsav1025&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uttsav1025/uttsav1025/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>*Note: To enable the snake animation, you'll need to set up the GitHub Action. [Guide here](https://github.com/Platane/snk)*</sub>
-
-### 💭 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-### 😂 Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
-
 ## 🎯 Currently
 
 ```javascript
